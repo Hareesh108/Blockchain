@@ -7,3 +7,7 @@
 ### https://www.pcmag.com/news/blockchain-the-invisible-technology-thats-changing-the-world
 
 ### https://www.smithandcrown.com/
+
+### https://www.namecoin.org/
+
+### https://ethereum.org/en/
