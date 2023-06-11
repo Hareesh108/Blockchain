@@ -14,3 +14,9 @@
 ### https://www.namecoin.org/
 
 ### https://ethereum.org/en/
+
+## Articals:-
+#### https://bitcoin.org/bitcoin.pdf
+#### How Does the Blockchain Work? = https://onezero.medium.com/how-does-the-blockchain-work-98c8cd01d2ae
+#### How Do Bitcoin Nodes Verify Transactions? = https://smartereum.com/8970/how-do-bitcoin-nodes-verify-transactions/
+#### Blockchain: The Invisible Technology That's Changing the World = https://www.pcmag.com/news/blockchain-the-invisible-technology-thats-changing-the-world
