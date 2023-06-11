@@ -3,7 +3,7 @@
 ### Blockchain_For_Beginners :>  https://blockgeeks.com/guides/what-is-blockchain-technology/#Blockchain_101_Blockchain_For_Beginners
 
 ### How it works!!
-![Images](https://github.com/Hareesh108/Blockchain/assets/72018706/462a5937-ce95-4465-a532-69075e93e17e)
+ ##### ![Images](https://github.com/Hareesh108/Blockchain/assets/72018706/462a5937-ce95-4465-a532-69075e93e17e)
 
 ### https://queue.acm.org/detail.cfm?id=3136559
 
