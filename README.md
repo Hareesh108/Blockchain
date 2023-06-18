@@ -18,6 +18,10 @@
 
 ### https://ethereum.org/en/
 
+### Demo :
+#### https://tools.superdatascience.com/blockchain/public-private-keys/blockchain
+#### https://tools.superdatascience.com/blockchain/hash
+
 ## Articals:-
 #### https://bitcoin.org/bitcoin.pdf
 #### How Does the Blockchain Work? = https://onezero.medium.com/how-does-the-blockchain-work-98c8cd01d2ae
